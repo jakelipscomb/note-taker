@@ -2,7 +2,7 @@
   by Jake Lipscomb
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## Our Deployed Heroku application: 
+### Our Deployed Heroku application: https://jakelipscomb-note-taker-0f34dac376d0.herokuapp.com/
 
 ![Screenshot](/public/assets/images/note-taker.png)
 
