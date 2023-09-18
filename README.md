@@ -1,11 +1,13 @@
-# note-taker 
+# Note-Taker 
   by Jake Lipscomb
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+# Our Deployed Heroku application: 
 
+![Screenshot](/public/assets/images/note-taker.png)
 
 ## Click the button to watch my walkthrough video on YouTube!
-[![Watch the video](https://cdn-icons-png.flaticon.com/256/1384/1384060.png)](https://www.youtube.com/watch?v=bveFOJrZfVo)
+[![Watch the video](https://cdn-icons-png.flaticon.com/256/1384/1384060.png)](https://youtu.be/xKw0yk2zAt8)
 
 
   ## Table of Contents
